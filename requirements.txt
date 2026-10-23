@@ -1,0 +1,9 @@
+gradio>=5.0
+opencv-python-headless>=4.8
+numpy>=1.26
+Pillow>=10.0
+# Optional for user-supplied OCIO configurations:
+# opencolorio>=2.3
+
+# Optional CHROMA Neural Detail inference:
+# onnxruntime>=1.18
